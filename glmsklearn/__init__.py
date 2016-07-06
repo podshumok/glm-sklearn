@@ -1,2 +1,2 @@
-from glm import GLM, BinomialRegressor, GammaRegressor, GaussianRegressor, \
+from .glm import GLM, BinomialRegressor, GammaRegressor, GaussianRegressor, \
     InverseGaussianRegressor, NegativeBinomialRegressor, PoissonRegressor
